@@ -1,2 +1,2 @@
 # DCCN-LAB
-Lab Work
+This repository contains my course Lab Work
